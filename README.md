@@ -8,9 +8,11 @@
 
 <div align="center">
  
- 🔭 Buscando a primeira oportunidade para atuar como analista de dados.
+ 🔭 Estou em busca da minha primeira oportunidade para atuar como Analista de Dados.
+
+ 📚 **Faculdade:** Engenharia de Requisitos | Dev. Mobile | Dev. de APIs e Microsserviços | Dev. com Automação Robótica | DevOps
  
- 🌱 Atualmente focado nos projetos com enfâse em análise de dados com  **Python** com apresentação de resultados em **Powe Bi**.
+ 🌱  **Projetos** Atualmente, dedico-me a projetos com foco em análise de dados, utilizando **Python** e apresentando resultados de forma objetiva no **Power BI**.
     </div>
 <div align="center"> 
   <a href="mailto:soepazacontato@gmail.com">
@@ -25,6 +27,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,aws,kotlin,django,github)](https://skillicons.dev)
 
-
-
-[![Suas Estatísticas](https://github-readme-stats.vercel.app/api?username=Soepaza&show_icons=true&theme=highcontrast&hide=contribs,issues,stars)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+<div align="center">
+  <h2>🐍 Minhas Contribuições 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Soepaza/Soepaza/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
