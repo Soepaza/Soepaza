@@ -10,9 +10,9 @@
  
  🔭 Estou em busca da minha primeira oportunidade para atuar como Analista de Dados.
 
- 📚 **Faculdade:** Engenharia de Requisitos | Dev. Mobile | Dev. de APIs e Microsserviços | Dev. com Automação Robótica | DevOps
+ 📚 **Faculdade:** Estudando as disciplinas Engenharia de Requisitos, Desenvolvimento Mobile, Desenvolvimento de APIs e Microsserviços, Desenvolvimento com Automação Robótica e DevOps.
  
- 🌱  **Projetos** Atualmente, dedico-me a projetos com foco em análise de dados, utilizando **Python** e apresentando resultados de forma objetiva no **Power BI**.
+ 🌱  **Projetos:** Atualmente, dedico-me a projetos com foco em análise de dados, utilizando **Python** e apresentando resultados de forma objetiva no **Power BI**.
     </div>
 <div align="center"> 
   <a href="mailto:soepazacontato@gmail.com">
