@@ -8,3 +8,6 @@
 
 
 [![My Skills](https://skillicons.dev/icons?i=python,aws,kotlin,django,github)](https://skillicons.dev)
+
+
+![snake gif](https://github.com/Soepaza/Soepaza/blob/output/github-contribution-grid-snake.gif)
