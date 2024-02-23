@@ -12,7 +12,7 @@
 
  📚 **Faculdade:** Estudando as disciplinas Engenharia de Requisitos, Desenvolvimento Mobile, Desenvolvimento de APIs e Microsserviços, Desenvolvimento com Automação Robótica e DevOps.
  
- 🌱  **Projetos:** Atualmente, dedico-me a projetos com foco em análise de dados, utilizando **Python** e apresentando resultados de forma objetiva no **Power BI**.
+ 🌱  **Projetos:** Atualmente, dedico-me a projetos com foco em análise de dados, utilizando **Python** e apresentando resultados de forma objetiva no **Power BI** para automação de processos e otimização de projetos.
     </div>
 <div align="center"> 
   <a href="mailto:soepazacontato@gmail.com">
