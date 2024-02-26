@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🔭 Estou em busca da minha primeira oportunidade para atuar como Analista de Dados.
+ 🔭 Desenvolvendo Projetos com foco em automações de processos.
 
  📚 **Faculdade:** Estudando as disciplinas Engenharia de Requisitos, Desenvolvimento Mobile, Desenvolvimento de APIs e Microsserviços, Desenvolvimento com Automação Robótica e DevOps.
  
