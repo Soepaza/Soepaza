@@ -25,7 +25,7 @@
 
 <h2 align="center">⚒️Linguagens - Frameworks - Tecnologias ⚒️</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=python,aws,kotlin,django,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,github,kali,docker,aws,kotlin)](https://skillicons.dev)
 
 <div align="center">
   <h2>🐍 Minhas Contribuições 🐍</h2>
